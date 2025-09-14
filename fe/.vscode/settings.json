@@ -1,0 +1,15 @@
+{
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "editor.inlineSuggest.enabled": true,
+  "tailwindCSS.emmetCompletions": true,
+  "css.validate": false,
+  "less.validate": false,
+  "scss.validate": false,
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+  "editor.suggestSelection": "first",
+  "editor.tabCompletion": "on"
+}
